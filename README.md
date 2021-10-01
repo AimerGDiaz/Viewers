@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 9:26 AM UTC
+			2021/9/29 12:00 AM UTC
 		</td>
 		<td>
-			4
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/314094375/small/year.png" height="20"> 176
+			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/314094375/small/year.png" height="20"> 197
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:00 AM UTC
+			2021/9/29 12:00 AM UTC
 		</td>
 		<td>
-			15
+			16
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/409135995/small/year.png" height="20"> 212
+			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/409135995/small/year.png" height="20"> 214
 		</td>
 	</tr>
 	<tr>
@@ -58,18 +58,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:00 AM UTC
+			2021/9/29 12:00 AM UTC
 		</td>
 		<td>
-			9
+			10
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/409164432/small/year.png" height="20"> 44
+			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/409164432/small/year.png" height="20"> 48
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/9/30 6:17 PM UTC</i></small>
+<small><i>Last updated on 2021/10/1 12:52 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

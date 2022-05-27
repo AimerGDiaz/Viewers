@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/24 1:28 AM UTC
+			2022/5/25 1:27 AM UTC
 		</td>
 		<td>
 			107
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/24 1:28 AM UTC
+			2022/5/25 1:27 AM UTC
 		</td>
 		<td>
 			45
@@ -58,18 +58,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/24 1:28 AM UTC
+			2022/5/25 12:00 AM UTC
 		</td>
 		<td>
-			42
+			43
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/409164432/small/year.png" height="20"> 298
+			<img alt="Response time graph" src="https://github.com/AimerGDiaz/Viewers/raw/master/graph/409164432/small/year.png" height="20"> 300
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/26 6:22 PM UTC</i></small>
+<small><i>Last updated on 2022/5/27 1:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
